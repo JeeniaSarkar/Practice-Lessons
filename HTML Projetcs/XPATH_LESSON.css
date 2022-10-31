@@ -1,0 +1,19 @@
+.parent{
+    border: 1px solid black ;
+}
+.child1{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+}
+.child2{
+    height: 250px;
+    width: 250px;
+    background-color:blue ;
+
+}
+.child3{
+    height: 50px;
+    width: 50px;
+    background-color:blueviolet;
+}
