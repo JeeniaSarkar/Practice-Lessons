@@ -1,0 +1,1 @@
+Update [table_name] set [column name1=value,column name2=value, column name3=value] where condition. 
